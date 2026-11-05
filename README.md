@@ -1,6 +1,7 @@
 
 ## Development Process:
 
+<hr>
 
 - Atomic commits, commiting after a specific feature change, with each commit being in the format: "version x.x.x", for instance: "version 1.3.2".
 
